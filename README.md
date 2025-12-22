@@ -55,6 +55,17 @@ I’m focused on strengthening my foundations in **software engineering**, clean
 
 ---
 
+## 📊 GitHub Activity & Languages (Auto)
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=LucasRafaelVilela&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRafaelVilela&layout=compact&theme=tokyonight" />
+</p>
+
+> 🔎 These statistics are generated automatically from my public GitHub repositories.
+
+---
+
 ## 📚 Education & Studies
 
 - ✅ **HTML & CSS – 5 modules** (Gustavo Guanabara)
