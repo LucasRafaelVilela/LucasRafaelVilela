@@ -60,6 +60,21 @@ Most of my learning comes from **self-study and daily practice**, improving lega
 
 ## 🔥 Featured Work
 
+### 📊 Primary Healthcare Performance Dashboard (info SUS – APS Quality Indicators)
+
+A web-based dashboard for monitoring and evaluating the performance of primary healthcare teams (eSF, eSB, eMulti) under Brazil's SUS funding model, following the **Nota Técnica Nº 6/2025-DEAPS/SAPS/MS** methodology.
+
+Key contributions to this project:
+
+- **Quarterly breakdown modal** — Built an interactive modal that displays each team's monthly performance per indicator (C1–C7), including the quadrimestral average and the final classification (Ótimo, Bom, Suficiente, Regular), following the official weighted scoring methodology
+- **Data refresh button** — Implemented the per-team refresh button that triggers a data sync and displays the timestamp of the last update directly in the UI tooltip
+- **Indicator parameter update** — Updated the system's calculation logic to comply with NT-06/2025 rules, including special handling for indicators C2 (child development) and C3 (pregnancy/puerperium), which only count months where a child turned 2 or a pregnancy reached 42 days postpartum
+- **Period selector refactor** — Replaced the quadrimester selector with a month/year picker, allowing users to navigate performance data month by month instead of being locked to quadrimester views
+
+_(Repository is private due to data sensitivity.)_
+
+---
+
 ### 🏥 Public Healthcare System (SUS Queue)
 
 Systems focused on **queue management and public healthcare processes**, involving:
