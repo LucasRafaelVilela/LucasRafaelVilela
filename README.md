@@ -50,7 +50,6 @@ Most of my learning comes from **self-study and daily practice**, improving lega
 ## 📈 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=LucasRafaelVilela&show_icons=true&theme=tokyonight&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRafaelVilela&layout=compact&theme=tokyonight" />
 </p>
 
