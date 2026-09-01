@@ -149,8 +149,8 @@ _(Repositories may be private due to data sensitivity.)_
 * ✅ **Algorithms and Programming Logic**
 * ✅ **PHP Object-Oriented Programming**
 * ✅ **Basic Java**
-* 📌 **C# and .NET**
-* 📌 **ASP.NET Core**
+* 📌 **C# and .NET** — Currently studying through the **official Microsoft documentation**
+* 📌 **ASP.NET Core** — Currently studying through the **official Microsoft documentation**
 * 📌 **Object-Oriented Design**
 * 📌 **SOLID Principles**
 * 📌 **Design Patterns**
