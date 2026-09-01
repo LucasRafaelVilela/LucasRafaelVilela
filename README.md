@@ -7,10 +7,13 @@ I have hands-on experience with **real production systems**, including **public 
 
 Most of my learning comes from **self-study and daily practice**, improving legacy systems and building solutions that are actually used.
 
-🌱 Currently deepening my knowledge in **Software Engineering fundamentals**  
-💡 I enjoy understanding business rules and turning them into working systems  
-🎯 Focused on professional growth and long-term career evolution  
-🎓 Planning to pursue a **Software Engineering degree**
+🌱 Currently deepening my knowledge in Software Engineering and Software Architecture
+🏗️ Studying software architecture, architectural patterns, design patterns and technical decision-making
+💻 Currently studying C#, .NET and ASP.NET Core to expand my backend and enterprise development skills
+🧠 Learning how software engineers make decisions involving maintainability, scalability, security, performance, coupling, cohesion and system evolution
+💡 I enjoy understanding business rules and turning them into reliable software
+🎯 Focused on becoming a stronger Software Engineer, not just writing code
+🎓 Planning to pursue a Software Engineering degree
 
 ---
 
@@ -44,6 +47,60 @@ Most of my learning comes from **self-study and daily practice**, improving lega
 ![Vue.js](https://img.shields.io/badge/Vue.js-Basic-42B883?style=for-the-badge&logo=vue.js)
 ![Java](https://img.shields.io/badge/Java-Basic-ED8B00?style=for-the-badge&logo=openjdk)
 ![Python](https://img.shields.io/badge/Python-Basic-3776AB?style=for-the-badge&logo=python)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet)
+![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=dotnet)
+
+---
+
+## 🏗️ Software Engineering & Architecture
+
+I'm currently studying the concepts that go beyond simply implementing features, with a focus on **how software systems should be designed, structured and evolved over time**.
+
+### 🏛️ Architecture
+
+* Software Architecture fundamentals
+* Architectural patterns
+* Layered Architecture
+* Clean Architecture
+* Modular design
+* Separation of concerns
+* Dependency management
+* Coupling and cohesion
+* Scalability and maintainability
+* System boundaries and responsibilities
+* Trade-offs in architectural decisions
+
+### 🧩 Design & Development
+
+* Object-Oriented Programming
+* SOLID principles
+* Design Patterns
+* Clean Code
+* Domain modeling
+* Refactoring
+* Dependency Injection
+* API design
+* Error handling
+* Testing strategies
+
+### ⚖️ Engineering Decisions
+
+I'm also studying how Software Engineers and Architects evaluate technical decisions based on:
+
+* **Maintainability**
+* **Scalability**
+* **Performance**
+* **Security**
+* **Reliability**
+* **Complexity**
+* **Cost**
+* **Technical debt**
+* **Business requirements**
+* **Long-term system evolution**
+
+My goal is to understand not only **"how to implement something"**, but also **"why this solution should be implemented this way"** and what trade-offs come with each decision.
 
 ---
 
@@ -88,11 +145,20 @@ _(Repositories may be private due to data sensitivity.)_
 
 ## 📚 Education & Studies
 
-- ✅ **HTML & CSS – 5 modules** (Gustavo Guanabara)
-- ✅ **Algorithms and Programming Logic**
-- ✅ **PHP Object-Oriented Programming**
-- ✅ **Basic Java**
-- 📌 Continuous studies in **clean code and software architecture**
+* ✅ **HTML & CSS – 5 modules** (Gustavo Guanabara)
+* ✅ **Algorithms and Programming Logic**
+* ✅ **PHP Object-Oriented Programming**
+* ✅ **Basic Java**
+* 📌 **C# and .NET**
+* 📌 **ASP.NET Core**
+* 📌 **Object-Oriented Design**
+* 📌 **SOLID Principles**
+* 📌 **Design Patterns**
+* 📌 **Software Architecture**
+* 📌 **Clean Architecture**
+* 📌 **Clean Code**
+* 📌 **Software Engineering fundamentals**
+* 📌 **Architectural decision-making and technical trade-offs**
 
 ---
 
@@ -108,5 +174,7 @@ Lucas Rafael's GitHub activity graph reflects **daily work on real systems**, in
 > respecting real-world constraints, and building systems that actually work.”_
 
 📚 Always learning  
-🚀 Focused on growth  
+🏗️ Designing better systems
+💻 Building with purpose
+🚀 Focused on becoming a stronger Software Engineer 
 🤝 Open to opportunities and challenges
