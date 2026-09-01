@@ -173,8 +173,8 @@ Lucas Rafael's GitHub activity graph reflects **daily work on real systems**, in
 > _“My focus is not just writing code, but understanding the problem,  
 > respecting real-world constraints, and building systems that actually work.”_
 
-*📚 Always learning  
-*🏗️ Designing better systems
-*💻 Building with purpose
-*🚀 Focused on becoming a stronger Software Engineer 
-*🤝 Open to opportunities and challenges
+* 📚 Always learning  
+* 🏗️ Designing better systems
+* 💻 Building with purpose
+* 🚀 Focused on becoming a stronger Software Engineer 
+* 🤝 Open to opportunities and challenges
