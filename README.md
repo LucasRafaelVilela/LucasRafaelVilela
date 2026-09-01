@@ -7,13 +7,13 @@ I have hands-on experience with **real production systems**, including **public 
 
 Most of my learning comes from **self-study and daily practice**, improving legacy systems and building solutions that are actually used.
 
-🌱 Currently deepening my knowledge in Software Engineering and Software Architecture
-🏗️ Studying software architecture, architectural patterns, design patterns and technical decision-making
-💻 Currently studying C#, .NET and ASP.NET Core to expand my backend and enterprise development skills
-🧠 Learning how software engineers make decisions involving maintainability, scalability, security, performance, coupling, cohesion and system evolution
-💡 I enjoy understanding business rules and turning them into reliable software
-🎯 Focused on becoming a stronger Software Engineer, not just writing code
-🎓 Planning to pursue a Software Engineering degree
+* *🌱 Currently deepening my knowledge in Software Engineering and Software Architecture*
+* *🏗️ Studying software architecture, architectural patterns, design patterns and technical decision-making*
+* *💻 Currently studying C#, .NET and ASP.NET Core to expand my backend and enterprise development skills*
+* *🧠 Learning how software engineers make decisions involving maintainability, scalability, security, performance, coupling, cohesion and system evolution*
+* *💡 I enjoy understanding business rules and turning them into reliable software*
+* *🎯 Focused on becoming a stronger Software Engineer, not just writing code*
+* *🎓 Planning to pursue a Software Engineering degree*
 
 ---
 
